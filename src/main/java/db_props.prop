@@ -1,0 +1,4 @@
+java.username = sa
+java.password = sgrh32@2018
+java.driver = com.microsoft.sqlserver.jdbc.SQLServerDriver
+java.url = jdbc:sqlserver://172.16.0.32\SQLPROD
